@@ -21,9 +21,8 @@
 
   "entity.illageandspillage.igniter": "Поджигатель",
   "entity.illageandspillage.engineer": "Инженер",
-  "entity.illageandspillage.chagrin_sentry": "Злой часовой",
+  "entity.illageandspillage.chagrin_sentry": "Свирепая турель",
   "entity.illageandspillage.hinder": "Распределитель",
-
   "entity.illageandspillage.factory": "Фабрика",
   "entity.illageandspillage.beeper": "Бипер",
   "entity.illageandspillage.sniper": "Снайпер",
@@ -90,7 +89,7 @@
   "subtitles.entity.engineer.death": "Инженер погибает",
   "subtitles.entity.engineer.throw": "Инженер работает",
   "subtitles.entity.engineer.repair": "Инженер чинит",
-  "subtitles.entity.engineer.hinder.heal": "Починщик чинит",
+  "subtitles.entity.engineer.hinder.heal": "Распределитель чинит",
   "subtitles.entity.engineer.beeper.beep": "Бипер бипает",
   "subtitles.entity.engineer.poker.poke": "Колипер колет",
 
@@ -180,7 +179,7 @@
   "subtitles.entity.crocofang.bite": "Крококлык кусает",
   "subtitles.entity.crocofang.hurt": "Крококлык ранен",
   "subtitles.entity.crocofang.death": "Крококлык погибает",
-  "subtitles.entity.crocofang.prepare_charge": "Крококлык заводится",
+  "subtitles.entity.crocofang.prepare_charge": "Крококлык готовится к рывку",
   "subtitles.entity.crocofang.charge": "Крококлык бежит",
 
   "subtitles.entity.devastator.ravager_mutate": "Разоритель мутирует",
